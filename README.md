@@ -1,5 +1,8 @@
 ## GM
 
-AI x ETH 👉 Better Coordination | Cypherpunk-aligned | INTJ | Co-initiator @LXDAO_Official @ETHPanda_Org | Creator @VibemanAI | Building with taste
+Cypherpunk-aligned · AI × Ethereum
+FDE & DevRel @lifiprotocol
+Co-initiator @LXDAO_Official @ETHPanda_Org
+Building with Hermes Agent for digital sovereignty
 
-[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucexu-eth)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=brucexu-eth)](https://github.com/stats-organization/github-stats-extended)
