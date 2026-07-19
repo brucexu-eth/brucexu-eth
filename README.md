@@ -2,9 +2,9 @@
 
 Cypherpunk-aligned · AI × Ethereum
 
-FDE & DevRel @lifiprotocol
+FDE & DevRel [@lifiprotocol](http://li.fi/)
 
-Co-initiator @LXDAO_Official @ETHPanda_Org
+Co-initiator [@LXDAO_Official](https://lxdao.io/) [@ETHPanda_Org](http://ethpanda.org/)
 
 Building with Hermes Agent for digital sovereignty
 
